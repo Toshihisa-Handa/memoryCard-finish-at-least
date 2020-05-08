@@ -1,0 +1,13 @@
+#palet{
+  width: 310px;
+  height: 490px;
+  background-color: rgb(197, 241, 248);
+}
+
+
+.card {
+  width: 60px;
+  height: 80px;
+  background-size: cover;
+  float: left;
+}
